@@ -1,0 +1,96 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/left.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.container {
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+/* .nav-bar-top a{
+    margin: -5px;
+    padding-left: 5px;
+} */
+
+/* .nav-bar-top a:nth-child(1):hover{
+    background: url(/img/happen_over.gif);
+}
+
+.nav-bar-top a:nth-child(2):hover{
+    background: url(/img/About_over.gif);
+}
+
+.nav-bar-top a:nth-child(3):hover{
+    background: url(/img/guess_over.gif);
+}
+
+.nav-bar-top a:nth-child(4):hover{
+    background: url(/img/conference_over.gif);
+}
+
+.nav-bar-top a:nth-child(5):hover{
+    background: url(/img/restaurant_over.gif);
+}
+
+.nav-bar-top a:nth-child(6):hover{
+    background: url(/img/Entertainment_Over.gif);
+} */
+
+.img img{
+    margin: -5px;
+    padding-left: 5px;
+    width: 700px;
+}
+
+.nav-bar-bottom {
+    background: rgb(180, 0, 0);
+    width: 700px;
+}
+
+/* .nav-bar-bottom a{
+    margin: -5px;
+    padding-left: 5px;
+} */
+
+.nav-bar-bottom marquee {
+    color: yellow;
+}
+
+/* .nav-bar-bottom a:nth-child(1):hover{
+    background: url(/img/home_over.gif);
+}
+
+.nav-bar-bottom a:nth-child(2):hover{
+    background: url(/img/Asean_over.gif);
+}
+
+.nav-bar-bottom a:nth-child(3):hover{
+    background: url(/img/reservation_over.gif);
+}
+
+.nav-bar-bottom a:nth-child(4):hover{
+    background: url(/img/survey_over.gif);
+} */
+
+.asean {
+    margin-top: -5px;
+    width: 700px;
+}
+
+.footer p {
+    margin-left: 200px;
+    font-size: 10px;
+}
+
+.footer p:nth-child(2) {
+    margin-top: -10px;
+    margin-left: 280px;
+}
+
+.animation {
+    transform: translateY(10px);
+}
